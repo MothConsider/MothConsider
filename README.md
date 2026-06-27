@@ -3,4 +3,4 @@
 
 <h3 align="center">' You like pancakes ? you die . `</h3>
 <h5 align="left">Heavy wip</h5>
-                                                                       yo                       <img align="right" width="300" height="550" alt="Image" src="https://github.com/user-attachments/assets/1d50ea73-9163-44a6-9842-752a2df50b77" />  yo
+                                                                                              <img align="right" width="300" height="550" alt="Image" src="https://github.com/user-attachments/assets/1d50ea73-9163-44a6-9842-752a2df50b77" />  
