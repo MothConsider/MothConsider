@@ -3,3 +3,10 @@
 
 <h3 align="center">' You like pancakes ? you die . `</h3>
 <h5 align="center">Heavy wip</h5>
+
+# 💫 About Me:
+hello
+
+
+
+![Meow](https://img.shields.io/badge/meow-%23000000.svg?style=flat&logo=Meow&logoColor=white) 
