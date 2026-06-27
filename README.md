@@ -12,4 +12,4 @@
 
 <h3 align="left">$$\color{#AE5E55}You$$ $$\color{#AE5E55}like$$ $$\color{#AE5E55}Pancakes$$ 
 
- $$\color{#AE5E55}.$$ $$\color{#AE5E55}.$$   <h3 aling="Center">$$\color{#AE5E55}You$$ $$\color{#AE5E55}die$$
+<h3 align="center"$$\color{#AE5E55}.$$ $$\color{#AE5E55}.$$   <h3 aling="Center">$$\color{#AE5E55}You$$ $$\color{#AE5E55}die$$
