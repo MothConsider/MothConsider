@@ -21,4 +21,4 @@
   ⠀
   
   
-  $$\color{#AE5E55}You$$ $$\color{#AE5E55}like$$ $$\color{#AE5E55}Pancakes$$ $$\color{#AE5E55}?$$ $$\color{#AE5E55}You$$ $$\color{#AE5E55}die$$ $$\color{#AE5E55}.$$
+  aling=''left''$$\color{#AE5E55}You$$ $$\color{#AE5E55}like$$ $$\color{#AE5E55}Pancakes$$ $$\color{#AE5E55}?$$ $$\color{#AE5E55}You$$ $$\color{#AE5E55}die$$ $$\color{#AE5E55}.$$
