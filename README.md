@@ -18,4 +18,4 @@
 
 
 
-$$1\color{#AE5E55}(Not-so)\ Animal\ fact| of\ the\ day.}$$
+$$1\color{#AE5E55}(hello!)$$
