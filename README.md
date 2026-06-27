@@ -17,3 +17,5 @@
 <h3 align="center"$$\color{#AE5E55}.$$>
 
  <img align="left" width="250" height="180" alt="Image" src="https://github.com/MothConsider/MothConsider/blob/d22c7047221d61ebf554ec90fb8cf2fb41f614b4/Untitled%20design-5.png" />
+
+<h3 align="left"$$\color{#AE5E55}.$$ $$\color{#AE5E55}He$$   <h3 aling="Center">$$\color{#AE5E55}They$$ $$\color{#AE5E55}die$$
