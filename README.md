@@ -1,7 +1,7 @@
 
  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mothconsider&label=Waffle%20lovers&color=E39759&style=flat" alt="mothconsider" /> </p>                                 [Ata!!](https://meds.atabook.org)
+https://meds.atabook.org
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mothconsider&label=Waffle%20lovers&color=E39759&style=flat"  alt="mothconsider" /> </p>                                
 
 <h5 align="left">Heavy wip</h5>
 
