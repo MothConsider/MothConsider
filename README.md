@@ -1,5 +1,5 @@
 
-<img align="center" width="1000" height="150" alt="Image" src="https://github.com/MothConsider/MothConsider/blob/5ca2764cd3a91d8157239877d3589c589262f173/Untitled%20design-4.png" />  
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mothconsider&label=Waffle%20lovers&color=E39759&style=flat" alt="mothconsider" /> </p>
 
